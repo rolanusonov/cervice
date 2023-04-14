@@ -116,3 +116,83 @@
       color: white;
       padding: 10px 0;
   }
+  @media (max-width: 776px) {
+      .heroBlock {
+          padding: 84px 0 0 0;
+          line-height: 42px;
+      }
+      .heroTitle {
+          font-size: 58px;
+      }
+      .houseTitle {
+           width: 88%;
+      }
+      .house {
+          flex-direction: column;
+      }
+      .sliderBlock {
+          width: 88%;
+          margin: 30px 0 0 0;
+      }
+      .market {
+          flex-direction: column;
+      }
+      .marketBlock {
+          width: 88%;
+      }
+      .marketTitle {
+            margin: 40px 0 40px 0;
+          width: 88%;
+      }
+      .cemetery {
+          flex-direction: column;
+      }
+      .cemeteryBlock {
+          width: 88%;
+      }
+      .cemeteryTitle {
+           width: 88%;
+          margin: 40px 0;
+      }
+      #cemetery {
+          padding: 51px 0 0 0;
+      }
+  }
+@media (max-width: 576px) {
+    .heroTitle {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    .heroBlock {
+         font-size: 10px;
+        line-height: 29px;
+    }
+}
+@media (max-width: 451px) {
+    .sliderBlock {
+        height: 377px;
+    }
+    #House {
+         height: 85vh;
+    }
+    .marketBlock {
+         height: 366px;
+    }
+    .cemeteryBlock {
+         height: 350px;
+    }
+}
+@media (max-width: 361px) {
+    .heroTitle {
+        font-size: 29px;
+     }
+    .sliderBlock {
+        height: 318px;
+    }
+    .marketBlock {
+        height: 318px;
+    }
+    .cemeteryBlock {
+        height: 318px;
+    }
+}
