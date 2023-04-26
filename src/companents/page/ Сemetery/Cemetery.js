@@ -19,7 +19,7 @@ const Cemetery = () => {
         <div id="cemetery">
              <div className="container">
                  <div className="cemetery">
-                     <h1 className="cemeteryTitle">За кладбищей тоже мы чистим снег и похороним </h1>
+                     <h1 className="cemeteryTitle">За кладбищей тоже мы чистим снег и похороним. </h1>
                      <div className="cemeteryBlock">
                          <Swiper
                              cssMode={true}

@@ -27,7 +27,7 @@ const House = () => {
             <div className="container">
                 <div className="house">
 
-                    <h1 className="houseTitle">Мы обслуживаем домов,чистим снег и моем полы подезда.</h1>
+                    <h1 className="houseTitle">Мы обслуживаем дома,чистим снег и моем полы подезда.</h1>
 
                     <div className="sliderBlock">
                         <Swiper

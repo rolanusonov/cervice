@@ -26,7 +26,7 @@ const Market = () => {
         <div id="market">
             <div className="container">
                 <div className="market">
-                    <h1 className="marketTitle">Рынок тоже мы обслужываем чистим снег и охранаем</h1>
+                    <h1 className="marketTitle">Рынок тоже мы обслужываем чистим снег и охранаем.</h1>
                     <div className="marketBlock">
                         <Swiper
                             cssMode={true}
